@@ -1,0 +1,11 @@
+Hi {requester_name},
+
+I've created an account for you at {requested_username}@hkn.eecs.berkeley.edu,
+and added you to the lists you've requested.
+You should be able to log in to your account with the password just sent to your email by Google Apps.
+
+This same account is used to access the HKN Wiki (prot) at https://hkn.mu/prot, and the HKN Slack
+at https://hkn.slack.com. Please set your Slack nickname (under Profile and Account) to your email username,
+so we can tag you.
+
+If you have any other questions, feel free to contact us at compserv@hkn.eecs.berkeley.edu.
