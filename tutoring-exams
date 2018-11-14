@@ -1,0 +1,21 @@
+To: professor
+CC: current-tutoring@hkn.eecs.berkeley.edu
+Subject: HKN Exam Database Updates
+
+Dear Professor {professor_name},
+
+My name is {your_name}, and I’m a representative from the Tutoring Committee of Eta Kappa Nu (HKN), UC Berkeley’s Electrical Engineering and Computer Science Honor Society. HKN offers various services that are widely used by your students, one of the most popular of which is our exam database: a publicly-available collection of exams and solutions for various courses. Many students routinely use our database as a study aid, and many professors appreciate our upkeep of this database, often recommending it to their students.
+
+As a result of the constantly-changing nature of course content, we strive to regularly update our archives with the latest exams and solutions. According to our research, you have recently taught these course iterations for which we are missing exams:
+
+LIST OF COURSES
+{courses}
+
+We would greatly appreciate if you would be willing to send us the exam and/or solution files for any or all of these courses, or direct us to the appropriate location to find them. Alternatively, if you would not like to be contacted for this purpose in the future, please let us know and we will add you to our “opt-out” list.
+
+Through our exam database and other initiatives, we hope to responsibly provide the university community, both students and professors, with as much support as possible. If you have any questions or ever wish to receive more information about our database, please email the HKN tutoring committee at tutoring@hkn.eecs.berkeley.edu.
+
+Sincerely,
+{your_name}
+HKN Tutoring Committee
+
